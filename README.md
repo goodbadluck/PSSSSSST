@@ -1,4 +1,4 @@
-
+ <sudo -u mayan /opt/mayan-edms/bin/pip install mayan-edms Install the Python client for PostgreSQL, RabbitMQ, and Redis: sudo -u mayan /opt/mayan-edms/bin/pip install amqp==5.1.0 psycopg2==2.9.3 redis==4.2.0 Platforms with the ARM CPU might also need additional requirements:>
 
 
 
